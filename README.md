@@ -1,3 +1,6 @@
+NAME: PAVAN GARIDIPURI
+ID: 4550019660
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
